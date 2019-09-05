@@ -1,7 +1,7 @@
 #                                                    NodeJsApi
     Q. Create Quiz Game APIs in in Node JS using Express.
         - User can register and login in the system. 
-          A verification link will be sent when user register and only if email is verified then user can login.
+    A verification link will be sent when user register and only if email is verified then user can login.
 
         - Pasword must not be stored as plain text.
 
